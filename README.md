@@ -5,6 +5,9 @@ I created DAO to use Realm easily!
 ##How to use.
 
 ```swift
+import Foundation
+import RealmSwift
+
 class SampleObject: Object {
     
     dynamic var id = 0
